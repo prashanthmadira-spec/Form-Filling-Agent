@@ -1,0 +1,17 @@
+# secrets and personal data
+.env
+data/
+logs/
+*.log
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+# editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+INTELLIFORM-FINAL.zip
